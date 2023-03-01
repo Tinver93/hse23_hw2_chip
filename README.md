@@ -44,10 +44,16 @@
 
 Пересечение пиков 1 реплики и ENCODE
 
+![image](https://user-images.githubusercontent.com/115100892/222255138-5e36d69c-bccf-40fd-a8e5-fb46afd3ac09.png)
+
+![image](https://user-images.githubusercontent.com/115100892/222255192-92b8d298-0685-4009-b918-fecaef6bd16f.png)
 
 
 Пересечение пиков 2 реплики и ENCODE
 
+![image](https://user-images.githubusercontent.com/115100892/222255255-00ce5f1e-48ef-4ca7-87e3-49b8bd8c53dc.png)
+
+![image](https://user-images.githubusercontent.com/115100892/222255280-3bf3a670-aa5c-4d56-b912-8567b9796aac.png)
 
 
 В базе данных ENCODE пики есть для всех хромосом, а мы выравнивали лишь на одну, поэтому пересечений мало.
