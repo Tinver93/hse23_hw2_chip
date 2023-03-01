@@ -1,6 +1,6 @@
 # hse23_hw2
 
-Ссылка на блокнот с кодом: 
+Ссылка на блокнот с кодом: https://colab.research.google.com/drive/1OQ5haqT0Y9tOOkf6Xi2x4clMNOWqYIZB?usp=sharing
 
 Для исследования была выбрана клеточная линия PC-3 и гистоновая метка H3K9ac.
 
