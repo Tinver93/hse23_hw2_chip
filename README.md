@@ -21,13 +21,16 @@
 
 Первая 
 
+![image](https://user-images.githubusercontent.com/115100892/222232593-6963d19d-caf1-49e5-b549-5527e85f62f1.png)
 
 
 Вторая
 
+![image](https://user-images.githubusercontent.com/115100892/222233856-30ea763b-f053-45c2-86d8-947392d12818.png)
 
 
 Контроль
 
+![image](https://user-images.githubusercontent.com/115100892/222234155-0e693aef-abf4-43d2-a3ec-7114f2e58c74.png)
 
 
